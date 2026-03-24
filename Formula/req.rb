@@ -1,8 +1,8 @@
 class Req < Formula
   desc "Lightweight HTTP client for .rest files"
   homepage "https://github.com/kevkoa2106/req"
-  url "https://github.com/kevkoa2106/req/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "0ce6f6001690f451a0578e0615eeb1af0a8649dd54853d0115263dbeddb5169b"
+  url "https://github.com/kevkoa2106/req/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "8ea5b2b92c41b11a1be9b8d50a70b8717fc73a18f20ba472e8a32ea702700c8a"
   license "GPL-3.0-only"
 
   depends_on "rust" => :build
