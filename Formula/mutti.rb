@@ -1,7 +1,7 @@
 class Mutti < Formula
   desc "Terminal music player"
   homepage "https://github.com/kevkoa2106/mutti"
-  version "0.3.0"
+  version "0.3.1"
   license "GPL-3.0-only"
 
   on_macos do
