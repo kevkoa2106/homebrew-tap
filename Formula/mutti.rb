@@ -5,13 +5,13 @@ class Mutti < Formula
   license "GPL-3.0-only"
 
   on_macos do
-    url "https://github.com/kevkoa2106/mutti/releases/download/v0.3.0/mutti-arm64-apple-darwin.tar.gz"
-    sha256 "527c202bce891b0f4388122b44c59dd5b6e587af27a63e0e2803fc4058339d15"
+    url "https://github.com/kevkoa2106/mutti/releases/download/v0.3.1/mutti-arm64-apple-darwin.tar.gz"
+    sha256 "e6af257b4056c8134e891b9ee9f976ab856aab198bd98bc38d3801e0da766359"
   end
 
   on_linux do
-    url "https://github.com/kevkoa2106/mutti/releases/download/v0.3.0/mutti-x86_64-linux.tar.gz"
-    sha256 "c375a7eef2637a6f773fe5a758046f8d4c0a48633e8c5541185eaad08046fb0b"
+    url "https://github.com/kevkoa2106/mutti/releases/download/v0.3.1/mutti-x86_64-linux.tar.gz"
+    sha256 "4c45e1bac7dc7289455bd0f5031f780b01325043e678e8a3f7b840788e57a705"
   end
 
   def install
